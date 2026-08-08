@@ -55,10 +55,6 @@ decomposition = seasonal_decompose(
     period=30
 )
 
-
-
-
-
 # Plot graphs
 plt.figure(figsize=(12, 10))
 
